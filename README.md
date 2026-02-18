@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Salut, moi c'est Antonin !
 
-<!--
-**antoninche/antoninche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Antonin:
+    def __init__(self):
+        self.username = "antoninche"
+        self.role = "Student"
+        self.stack = {
+            "main": ["Python", "HTML/CSS", "SQL"],
+            "focus": ["Backend Development", "System Architecture"]
+        }
+        self.goal = "Passer 4h à automatiser une tâche qui en prend 5 minutes."
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+        print("Merci de passer sur mon profil ! N'hésite pas à explorer mes repos.")
