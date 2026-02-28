@@ -6,7 +6,7 @@ class Antonin:
         self.username = "antoninche"
         self.role = "Student"
         self.stack = {
-            "main": ["Python", "HTML/CSS", "SQL"],
+            "main": ["Python", "HTML/CSS/JS", "SQL"],
             "focus": ["Backend Development", "System Architecture"]
         }
         self.goal = "Passer 4h à automatiser une tâche qui en prend 5 minutes."
